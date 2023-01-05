@@ -1,2 +1,2 @@
-### Hi there I'm Panupong 👋
+# Hi there I'm Panupong 👋
 ##  🔭 I’m currently working on ...
